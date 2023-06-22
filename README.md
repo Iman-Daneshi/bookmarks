@@ -10,8 +10,10 @@ In this project users are able to post pictures, follow other users and see thei
 
 ### Dependencies
 
-* Please install dependencies in the requirments.txt use pip install requirements.txt
-
+* Please install dependencies in the requirments.txt
+```
+pip install requirements.txt
+```
 
 ### Executing program
 
@@ -31,4 +33,4 @@ python bookmarks/manage.py runserver_plus --cert-file cert.crt --keep-meta-shutd
 
 Contributors names and contact info
 
-[@Iman Daneshi](iman_daneshi@yahoo.com)
+[@Iman Daneshi](https://www.linkedin.com/iman-daneshi)
