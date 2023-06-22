@@ -33,4 +33,4 @@ python bookmarks/manage.py runserver_plus --cert-file cert.crt --keep-meta-shutd
 
 Contributors names and contact info
 
-[@Iman Daneshi](https://www.linkedin.com/iman-daneshi)
+[@Iman Daneshi](https://www.linkedin.com/in/iman-daneshi)
